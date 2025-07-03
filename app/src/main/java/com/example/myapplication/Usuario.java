@@ -1,4 +1,4 @@
-package com.example.myapplication.ui.theme.listausuarios;
+package com.example.myapplication;
 
 public class Usuario {
     int id;

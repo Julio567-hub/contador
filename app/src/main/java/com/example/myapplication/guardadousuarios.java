@@ -1,4 +1,4 @@
-package com.example.myapplication.ui.theme.listausuarios;
+package com.example.myapplication;
 import android.content.ContentValues;
 import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
@@ -9,10 +9,6 @@ import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
-import com.example.myapplication.R;
 
 public class guardadousuarios extends AppCompatActivity {
 
